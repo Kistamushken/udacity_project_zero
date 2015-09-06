@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify_clicked">\"This button will launch Spotify Streamer App!\"</string>
+    <string name="scores_app_clicked">This button will launch Scores App!</string>
+    <string name="library_app_clicked">This button will launch Library App!</string>
+    <string name="build_it_bigger_clicked">This button will launch Build It Bigger App!</string>
+    <string name="xyz_reader_clicked">This button will launch XYZ Reader App!</string>
+    <string name="my_app_clicked">This button will launch My Capstone App!</string>
+    <string name="my_nano_apps">My Nano Degree Apps!</string>
+    <string name="spotify_app">Spotify Streamer</string>
+    <string name="scores_app">Scores App</string>
+    <string name="library_app">Library App</string>
+    <string name="build_it_bigger_app">Build it bigger</string>
+    <string name="xyz_reader_app">XYZ reader</string>
+    <string name="capstone_app">Capstone: My own app</string>
+</resources>
